@@ -1,4 +1,4 @@
-"""Agenda Estudiantil básica en un solo archivo.
+"""Agenda Estudiantil en un solo archivo.
 
 Incluye inicio de sesión, materias, horarios, tareas, exámenes, reportes y
 guardado automático en JSON. Solo requiere Python 3.10 o superior.
